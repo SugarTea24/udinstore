@@ -57,3 +57,11 @@
 > ### untuk `no.8` kamu bisa mengisi dengan `private` atau `sharing`
 
 > ### untuk `no.12` kamu bisa isi dengan link ke WA kamu ya, contohnya gini nih : `https://wa.me/+6281229514521?text=Permisi%20min,%20saya%20mau%20order`. untuk `%20` itu untuk karakter spasi yaww.
+
+# update project
+
+## command terminal
+
+1. `git add .`
+2. `git commit -m "komentar bebas"`
+3. `git push -u origin main` kalau tidak bisa belakang ditambahin `--force`
